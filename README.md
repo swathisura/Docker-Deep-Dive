@@ -1,5 +1,4 @@
 🐳 Docker Deep Dive – Complete Guide
-📌 Overview
 
 This document provides a deep understanding of Docker, including:
 
@@ -268,7 +267,7 @@ Volumes
 
 All in one file.
 
-🎯 Conclusion
+## Conclusion
 
 Docker:
 
